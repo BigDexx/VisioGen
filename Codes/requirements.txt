@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+pyttsx3
+moviepy
+whisper
+opencv-python
+tqdm
+Pillow
+numpy
