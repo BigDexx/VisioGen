@@ -1,1 +1,3 @@
 scp -i C:\Users\Asus\Downloads\DEXX.pem ubuntu@ec2-15-206-80-220.ap-south-1.compute.amazonaws.com:/home/ubuntu/VisioGen/random_subclip_with_audio(captioned).mp4 C:\Users\Asus\Downloads\
+
+scp -i "C:\Users\Asus\Downloads\DEXX.pem" "D:\Coding\Python\VisioGen\app3.py" ubuntu@ec2-15-206-80-220.ap-south-1.compute.amazonaws.com:/home/ubuntu/VisioGen/
